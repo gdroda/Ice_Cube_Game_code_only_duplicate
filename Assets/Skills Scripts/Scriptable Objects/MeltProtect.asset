@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 589b9871ff8746c4595c020f451b953f, type: 3}
+  m_Name: MeltProtect
+  m_EditorClassIdentifier: 
+  skillName: Melt Protect
+  cooldown: 10
+  duration: 5
+  description: 'Stop melting for &duration seconds. Cooldown: &cooldown seconds.'
+  currentUpgrade: 0
+  maxUpgrade: 5
+  icon: {fileID: 21300000, guid: e32aa09871a57ad4c865243ee603f39c, type: 3}
+  lockedIcon: {fileID: 21300000, guid: f74b1420f055cb343a65bbbd91a11845, type: 3}
+  cost: 100
+  costMultiplier: 3
+  unlocked: 0
+  inSlotOne: 0
+  inSlotTwo: 1

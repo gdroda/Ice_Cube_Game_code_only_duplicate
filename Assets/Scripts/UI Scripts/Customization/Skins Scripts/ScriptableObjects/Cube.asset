@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a36f8fd4ef45444893ea5e385a1b10, type: 3}
+  m_Name: Cube
+  m_EditorClassIdentifier: 
+  mesh: {fileID: -5495902117074765545, guid: ab795d5070121ff45b0c745ba44f2d91, type: 3}
+  colliderMesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  cost: 0
+  currency: 0
+  unlocked: 1
+  previewScale: 300
+  isActive: 1
+  icon: {fileID: 0}
+  lockedIcon: {fileID: 21300000, guid: f74b1420f055cb343a65bbbd91a11845, type: 3}
